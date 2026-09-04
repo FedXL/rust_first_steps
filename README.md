@@ -12,7 +12,7 @@
 2. [Rustlings](https://github.com/rust-lang/rustlings)
 3. Компьютерные системы: архитектура и программирование
 4. [100 вопросов] (https://habr.com/ru/articles/1040712/)
-5. [Rust eвангелисты](https://www.youtube.com/playlist?list=PLrn_NFZk3CfpZ-xjvb3zBronSF33czf_4)
+5. [Rust eвангелисты](https://www.youtube.com/playlist?list=PLrn_NFZk3CfpZ-xjvb3zBronSF33czf)
 
 ## Материалы
 
