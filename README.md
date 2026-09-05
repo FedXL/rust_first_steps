@@ -12,7 +12,7 @@
 2. [Rustlings](https://github.com/rust-lang/rustlings)
 3. [аллокаторы](https://habr.com/ru/articles/505632/) | [rust_api](https://doc.rust-lang.org/std/alloc/index.html) | [types](https://github.com/FedXL/rust_first_steps/blob/main/notes/allocator.md)
 4. [100 вопросов](https://habr.com/ru/articles/1040712/)
-5. [Rust eвангелисты](https://www.youtube.com/playlist?list=PLrn_NFZk3CfpZ-xjvb3zBronSF33czf)
+5. [Rust eвангелисты](https://github.com/FedXL/rust_first_steps/blob/main/notes/evang)
 
 ## Материалы
 
