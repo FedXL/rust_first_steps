@@ -1,4 +1,4 @@
-| Область                   | Что считается базой                                                                                                             |
+|     position              | Baze?                                                                                                       |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **Computer Architecture** | CPU, ISA, инструкции, registers, cache L1/L2/L3, cache line, RAM, branch prediction, pipeline, SIMD                             |
 | **Operating Systems**     | process/thread, scheduler, context switch, virtual memory, pages, stack/heap, syscall, user/kernel mode, file descriptors, mmap |
